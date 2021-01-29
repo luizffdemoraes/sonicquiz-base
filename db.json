@@ -1,28 +1,33 @@
 {
-  "bg": "https://wallpapercave.com/wp/wp2195545.png",
+  "bg": "https://images4.alphacoders.com/102/1024588.png",
   "title": "Quiz CSS da Alura",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      
+      "image": "https://media.tenor.com/images/e508c8bf8487437d311fdbf6d619423d/tenor.gif",
+      "title": "Em que ano o jogo Sonic foi criado?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 1,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://media1.tenor.com/images/84c7ae17de37f8727104f09013568895/tenor.gif?itemid=19587681",
+      "title": "Quais são os melhores amigos do Sonic?",
+      "description": "Best Friends :D",
+      "answer": 3,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Rouge e Shadow",
+         "Silver e Cream",
+         "Amy Rose e Marine",
+         "Knuckles e Tails",
+         "Big e Espio"
       ]
     }
   ],
