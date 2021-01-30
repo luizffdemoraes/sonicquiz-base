@@ -1,12 +1,13 @@
 {
   "bg": "https://images4.alphacoders.com/102/1024588.png",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "loading": "https://i.gifer.com/77fA.gif",
+  "title": "Quiz Sonic",
+  "description": "Teste os seus conhecimentos sobre o Sonic, vamos ver o quão rapida e acertiva é sua memória",
   "questions": [
     {
       
       "image": "https://media.tenor.com/images/e508c8bf8487437d311fdbf6d619423d/tenor.gif",
-      "title": "Em que ano o jogo Sonic foi criado?",
+      "title": "1 - Em que ano o jogo Sonic foi criado?",
       "description": "Essa é pra aquecer",
       "answer": 1,
       "alternatives": [
@@ -19,7 +20,7 @@
     },
     {
       "image": "https://media1.tenor.com/images/84c7ae17de37f8727104f09013568895/tenor.gif?itemid=19587681",
-      "title": "Quais são os melhores amigos do Sonic?",
+      "title": "2 - Quais são os melhores amigos do Sonic?",
       "description": "Best Friends :D",
       "answer": 3,
       "alternatives": [
@@ -29,10 +30,115 @@
          "Knuckles e Tails",
          "Big e Espio"
       ]
+    },
+    {
+      "image": "https://i.gifer.com/oK5.gif",
+      "title": "3 - Qual animal é o Sonic?",
+      "description": "hummmmmm será que tem no Zoológico...",
+      "answer": 1,
+      "alternatives": [
+         "Porco Espinho",
+         "Ouriço",
+         "Rato",
+         "Equidna",
+         "Guaxinim"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/7JmP.gif",
+      "title": "4 - Qual nome do antagonista principal da série?",
+      "description": "Pura maldade....",
+      "answer": 4,
+      "alternatives": [
+         "Dr. Albert W. Wily",
+         "Dr. Chapatin",
+         "Professor Tibúrcio",
+         "Professor Pasquale Cipro Neto",
+         "Dr. Ivo Robotnik"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/2uVC.gif",
+      "title": "5 - Qual o nome da desenvolvedora dos jogos Sonic?",
+      "description": "Só quem ja teve o console sabe kkkkk",
+      "answer": 3,
+      "alternatives": [
+         "NINTENDO ",
+         "SONY",
+         "NAMCO BANDAI",
+         "SEGA",
+         "BLIZZARD"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/OSJv.gif",
+      "title": "6 - Qual foi a primeira aparição do Sonic em jogos?",
+      "description": "Difícil....",
+      "answer": 0,
+      "alternatives": [
+         "Rad Mobile - pendurado no retrovisor como um objeto",
+         "Sonic the Hedgehog - Estrelado - Sonic/Eggman",
+         "Sonic Eraser - Estrelado - Sonic.",
+         "Sonic the Hedgehog 2 - Estrelado - Sonic/Tails/Eggman.",
+         "Sonic Spinball - Estrelado - Sonic/Tails/Eggman/Sally."
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/QkGb.gif",
+      "title": "7 - Como surgiu Tails?",
+      "description": "História...",
+      "answer": 4,
+      "alternatives": [
+         "Durante uma festa da empresa",
+         "Pensando em um Sonic meio laranja/amarelo",
+         "Em uma reunião",
+         "Em um sonho de um artista",
+         "Em um concurso para eleger um companheiro para Sonic"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/7886.gif",
+      "title": "8 - Comida favorita do Sonic?",
+      "description": "Fast Food!",
+      "answer": 2,
+      "alternatives": [
+         "Yakisoba",
+         "Pizza",
+         "Cachorro-quente",
+         "Batata frita",
+         "X-burguer"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/JJn3.gif",
+      "title": "9 - Qual foi o primeiro jogo a unir Sonic e Mario?",
+      "description": "Rivalidade total xD",
+      "answer": 0,
+      "alternatives": [
+         "Mario & Sonic at the Olympic Games",
+         "Mortal Kombat 11 Ultimate",
+         "Street Fighter",
+         "Crash Nitro Kart",
+         "The King of Fighters 97"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/3jnS.gif",
+      "title": "10 - Ano de lançamento - Sonic o Filme?",
+      "description": "Fast Food!",
+      "answer": 1,
+      "alternatives": [
+         "2000",
+         "2020",
+         "1995",
+         "2015",
+         "2002"
+      ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
